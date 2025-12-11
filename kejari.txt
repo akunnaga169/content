@@ -214,22 +214,22 @@
 
     <link
       rel="image_src"
-      href="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+      href="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
     />
     <meta
       property="og:image"
-      content="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+      content="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
     />
     <meta
       name="twitter:image"
-      content="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+      content="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
     />
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "SLOT GACOR",
-  "image": "https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png",
+  "image": "https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png",
   "description": "JANDAGACOR adalah platform akses utama bagi para pemain yang mencari link daftar slot gacor DEPOBOS dan WATITOTO dengan proses pendaftaran cepat, aman, dan biaya yang sangat terjangkau.",
   "brand": {
     "@type": "Brand",
@@ -493,7 +493,7 @@
             <div class="mainmenu_footer">
               <div class="mainmenu_footer_logo">
                 <img
-                  src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                  src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                 />
               </div>
               © Valve Corporation. All rights reserved. All trademarks are
@@ -1935,7 +1935,7 @@
                     >
                       <img
                         style="width: 100%"
-                        src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                        src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                         alt="slot gacor Authentic Link"
                       />
                     </div>
@@ -1957,7 +1957,7 @@
                             <img
                               class="game_header_image_full"
                               alt=""
-                              src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                              src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                             />
 
                             <div
@@ -2420,7 +2420,7 @@
                             <div id="highlight_player_area">
                               <div class="highlight_player_area_spacer">
                                 <img
-                                  src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                  src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                   alt=""
                                 />
                               </div>
@@ -2429,7 +2429,7 @@
              style="display: none"
              data-dash-player="true"
              data-featuretarget="gamehighlight-trailer"
-             data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"],"hlsManifest":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","id":"highlight_movie_256766096","title":"","screenshot":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","category":0,"statsURL":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"}'>
+             data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"],"hlsManifest":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","id":"highlight_movie_256766096","title":"","screenshot":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","category":0,"statsURL":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"}'>
         </div>
                               <div
                                 id="highlight_movie_256736502"
@@ -2437,7 +2437,7 @@
                                 style="display: none"
                                 data-dash-player="true"
                                 data-featuretarget="gamehighlight-trailer"
-                                data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"],"hlsManifest":"https:\/\/video.akamai.steamstatic.com\/store_trailers\/750920\/197493\/f4672768aeca255065beb658e11f5cb8d19ea71e\/1750578844\/hls_264_master.m3u8?t=1542983824","id":"highlight_movie_256736502","title":"","screenshot":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","category":0,"statsURL":"https:\/\/store.steampowered.com\/app\/trailerstats\/750920\/197493"}'
+                                data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"],"hlsManifest":"https:\/\/video.akamai.steamstatic.com\/store_trailers\/750920\/197493\/f4672768aeca255065beb658e11f5cb8d19ea71e\/1750578844\/hls_264_master.m3u8?t=1542983824","id":"highlight_movie_256736502","title":"","screenshot":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","category":0,"statsURL":"https:\/\/store.steampowered.com\/app\/trailerstats\/750920\/197493"}'
                               ></div>
                               <div
                                 id="highlight_movie_256728364"
@@ -2445,7 +2445,7 @@
                                 style="display: none"
                                 data-dash-player="true"
                                 data-featuretarget="gamehighlight-trailer"
-                                data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"],"hlsManifest":"https:\/\/video.akamai.steamstatic.com\/store_trailers\/750920\/183812\/2507486cff821cf1558459e5e28721fc529b3b8b\/1750578718\/hls_264_master.m3u8?t=1536601614","id":"highlight_movie_256728364","title":"","screenshot":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","category":0,"statsURL":"https:\/\/store.steampowered.com\/app\/trailerstats\/750920\/183812"}'
+                                data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"],"hlsManifest":"https:\/\/video.akamai.steamstatic.com\/store_trailers\/750920\/183812\/2507486cff821cf1558459e5e28721fc529b3b8b\/1750578718\/hls_264_master.m3u8?t=1536601614","id":"highlight_movie_256728364","title":"","screenshot":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","category":0,"statsURL":"https:\/\/store.steampowered.com\/app\/trailerstats\/750920\/183812"}'
                               ></div>
                               <div
                                 id="highlight_movie_256744566"
@@ -2453,7 +2453,7 @@
                                 style="display: none"
                                 data-dash-player="true"
                                 data-featuretarget="gamehighlight-trailer"
-                                data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"],"hlsManifest":"https:\/\/video.akamai.steamstatic.com\/store_trailers\/750920\/212005\/507b8e1ca128ae8bf02e67128e65041bf56b0c6f\/1750578945\/hls_264_master.m3u8?t=1551805139","id":"highlight_movie_256744566","title":"","screenshot":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","category":0,"statsURL":"https:\/\/store.steampowered.com\/app\/trailerstats\/750920\/212005"}'
+                                data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"],"hlsManifest":"https:\/\/video.akamai.steamstatic.com\/store_trailers\/750920\/212005\/507b8e1ca128ae8bf02e67128e65041bf56b0c6f\/1750578945\/hls_264_master.m3u8?t=1551805139","id":"highlight_movie_256744566","title":"","screenshot":"https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","category":0,"statsURL":"https:\/\/store.steampowered.com\/app\/trailerstats\/750920\/212005"}'
                               ></div>
                               <div
                                 id="highlight_movie_256742780"
@@ -2461,7 +2461,7 @@
                                 style="display: none"
                                 data-dash-player="true"
                                 data-featuretarget="gamehighlight-trailer"
-                                data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"],"hlsManifest":"https:\/\/video.akamai.steamstatic.com\/store_trailers\/750920\/208842\/a31d36814d9821ba9c510645a70b566b53a101e2\/1750578935\/hls_264_master.m3u8?t=1549990929","id":"highlight_movie_256742780","title":"","screenshot":"https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/256742780\/movie.293x165.jpg?t=1549990929","category":0,"statsURL":"https:\/\/store.steampowered.com\/app\/trailerstats\/750920\/208842"}'
+                                data-props='{"dashManifests":["https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png","https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"],"hlsManifest":"https:\/\/video.akamai.steamstatic.com\/store_trailers\/750920\/208842\/a31d36814d9821ba9c510645a70b566b53a101e2\/1750578935\/hls_264_master.m3u8?t=1549990929","id":"highlight_movie_256742780","title":"","screenshot":"https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/256742780\/movie.293x165.jpg?t=1549990929","category":0,"statsURL":"https:\/\/store.steampowered.com\/app\/trailerstats\/750920\/208842"}'
                               ></div>
                               <div
                                 id="highlight_movie_256741069"
@@ -2659,7 +2659,7 @@
                                   <a
                                     class="highlight_screenshot_link"
                                     data-screenshotid="ss_04b30aaa0ce083b1bcff63d06432707ab9c35c74.jpg"
-                                    href="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    href="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     target="_blank"
                                     rel=""
                                   >
@@ -2681,7 +2681,7 @@
                                   <a
                                     class="highlight_screenshot_link"
                                     data-screenshotid="ss_3f370f69eef0caeceb533d06925cc48f0f26c83c.jpg"
-                                    href="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    href="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     target="_blank"
                                     rel=""
                                   >
@@ -2703,7 +2703,7 @@
                                   <a
                                     class="highlight_screenshot_link"
                                     data-screenshotid="ss_3fcd62a2831bcc1e557a0fe2a061b6369ba030d1.jpg"
-                                    href="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    href="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     target="_blank"
                                     rel=""
                                   >
@@ -2908,7 +2908,7 @@
                                 >
                                   <img
                                     class="movie_thumb"
-                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     alt=""
                                   />
                                   <div class="highlight_movie_marker"></div>
@@ -2922,7 +2922,7 @@
                                 >
                                   <img
                                     class="movie_thumb"
-                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     alt=""
                                   />
                                   <div class="highlight_movie_marker"></div>
@@ -2935,7 +2935,7 @@
                                   id="thumb_screenshot_ss_04b30aaa0ce083b1bcff63d06432707ab9c35c74.jpg"
                                 >
                                   <img
-                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     alt="Screenshot #1"
                                   />
                                 </div>
@@ -2946,7 +2946,7 @@
                                   id="thumb_screenshot_ss_3f370f69eef0caeceb533d06925cc48f0f26c83c.jpg"
                                 >
                                   <img
-                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     alt="Screenshot #2"
                                   />
                                 </div>
@@ -2957,7 +2957,7 @@
                                   id="thumb_screenshot_ss_3fcd62a2831bcc1e557a0fe2a061b6369ba030d1.jpg"
                                 >
                                   <img
-                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     alt="Screenshot #3"
                                   />
                                 </div>
@@ -2968,7 +2968,7 @@
                                   id="thumb_screenshot_ss_06a2446b7ccef5eaac1ef4200acdb3f02dac9ae0.jpg"
                                 >
                                   <img
-                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     alt="Screenshot #4"
                                   />
                                 </div>
@@ -2979,7 +2979,7 @@
                                   id="thumb_screenshot_ss_794a3ecd4ae51313f8cfffbc6b3d8b91c665b12b.jpg"
                                 >
                                   <img
-                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     alt="Screenshot #5"
                                   />
                                 </div>
@@ -2990,7 +2990,7 @@
                                   id="thumb_screenshot_ss_8907e0a624a1113be01fa1b426d0e3ab0971e7d2.jpg"
                                 >
                                   <img
-                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                                    src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                                     alt="Screenshot #6"
                                   />
                                 </div>
@@ -4944,7 +4944,7 @@
                         <span class="bb_img_ctn">
                         <img
                             class="bb_img"
-                            src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765438326/Gemini_Generated_Image_ep1ja6ep1ja6ep1j_nfylsh.png"
+                            src="https://res.cloudinary.com/dmafbizz8/image/upload/v1765452752/Gemini_Generated_Image_mwegy8mwegy8mweg_xc4bk9.png"
                             width="616"
                             height="388"
                             alt="JANDAGACOR » Akses Daftar Slot Gacor DEPOBOS & WATITOTO Paling Murah Dan Terpercaya"
