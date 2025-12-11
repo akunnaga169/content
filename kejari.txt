@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>JANDAGACOR » Akses Daftar Slot Gacor DEPOBOS & WATITOTO Paling Murah Dan Terpercaya</title>
-    <link rel="amphtml" href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" />
+    <link rel="amphtml" href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" />
     <link
       rel="shortcut icon"
       href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png"
@@ -364,7 +364,7 @@
             <div class="mainmenu_contents_items">
               <a
                 class="menuitem"
-                href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
               >
                 Login
               </a>
@@ -1836,7 +1836,7 @@
       transition: all 0.2s ease-in-out;
       box-shadow: none;
     "
-    href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+    href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
     target="_blank"
     onmouseover="this.style.background='#f1f1f1'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)';"
     onmouseout="this.style.background='#ffffff'; this.style.boxShadow='none';"
@@ -1854,7 +1854,7 @@
       transition: all 0.2s ease-in-out;
       box-shadow: none;
     "
-    href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+    href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
     onmouseover="this.style.background='#f1f1f1'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)';"
     onmouseout="this.style.background='#ffffff'; this.style.boxShadow='none';"
     >DAFTAR</a
@@ -2103,40 +2103,40 @@
                             <div class="dev_row">
                             <div class="subtitle column">Developer Slot Gacor:</div>
                             <div class="summary column" id="developers_list">
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Pragmatic Play
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 PG SOFT
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Habanero
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Microgaming
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Play'n GO
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Relax Gaming
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Yggdrasil
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Red Tiger
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 EvoPlay
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 NoLimit City
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Spadegaming
                                 </a>,
-                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/" target="_blank" rel="noopener">
+                                <a href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp" target="_blank" rel="noopener">
                                 Joker Gaming
                                 </a>
                             </div>
@@ -4182,7 +4182,7 @@
                       id="bannerPointsShop"
                       class="responsive_banner_link"
                       style="display: none"
-                      onclick="window.location='https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/'"
+                      onclick="window.location='https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp'"
                     >
                       <div
                         class="responsive_banner_link_title responsive_chevron_right"
@@ -4200,7 +4200,7 @@
                       <div class="communitylink_points_shop_images">
                         <a
                           class="communitylink_points_shop_item"
-                          href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/reward/67857/"
+                          href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/ampreward/67857/"
                         >
                           <img
                             class="profile_background"
@@ -4210,7 +4210,7 @@
                         </a>
                         <a
                           class="communitylink_points_shop_item"
-                          href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/reward/68311/"
+                          href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/ampreward/68311/"
                         >
                           <img
                             class="profile_background"
@@ -4220,7 +4220,7 @@
                         </a>
                         <a
                           class="communitylink_points_shop_item"
-                          href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                          href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
                         >
                           <img
                             class="profile_background"
@@ -4230,7 +4230,7 @@
                         </a>
                         <a
                           class="communitylink_points_shop_item communitylink_achivement_plusmore"
-                          href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                          href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
                         >
                           View<br />all 10
                         </a>
@@ -4451,7 +4451,7 @@
 
                             <a
                               class="linkbar responsive_chevron_right"
-                              href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                              href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
                               target="_blank"
                               rel="noreferrer"
                             >
@@ -4576,7 +4576,7 @@
                             <div id="demoGameBtn" class="btn_addtocart">
                               <a
                                 class="btn_green_steamui btn_medium"
-                                href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                                href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
                               >
                                 <span>SLOT GACOR LOGIN</span>
                               </a>
@@ -4640,7 +4640,7 @@
                               <div class="btn_addtocart btn_packageinfo">
                                 <a
                                   class="btn_blue_steamui btn_medium"
-                                  href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                                  href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
                                 >
                                   <span>SLOT777 SLOT GACOR</span>
                                 </a>
@@ -4668,7 +4668,7 @@
                                   data-panel='{"focusable":true,"clickOnActivate":true}'
                                   role="button"
                                   class="btn_green_steamui btn_medium"
-                                  href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                                  href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
                                 >
                                   <span>SLOT GACOR DAFTAR</span>
                                 </a>
@@ -4775,7 +4775,7 @@
                               <div class="btn_addtocart btn_packageinfo">
                                 <a
                                   class="btn_blue_steamui btn_medium"
-                                  href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                                  href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
                                 >
                                   <span>Bundle info</span>
                                 </a>
@@ -4803,7 +4803,7 @@
                                   data-panel='{"focusable":true,"clickOnActivate":true}'
                                   role="button"
                                   class="btn_green_steamui btn_medium"
-                                  href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/"
+                                  href="https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp"
                                 >
                                   <span>BONUS PROMOSI SLOT GACOR</span>
                                 </a>
@@ -4836,7 +4836,7 @@
                       role="button"
                       class="responsive_banner_link"
                       style="display: none"
-                      onclick="window.location='https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/'"
+                      onclick="window.location='https://kejari-solokselatan-kejaksaaan-amp-v5.pages.dev/amp'"
                     >
                       <div
                         class="responsive_banner_link_title responsive_chevron_right"
