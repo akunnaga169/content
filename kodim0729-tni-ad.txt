@@ -15494,7 +15494,7 @@
       transition: all 0.2s ease-in-out;
       box-shadow: none;
     "
-    href="https://kodim0729-tni-ad-amp-v5.pages.dev/amp"
+    href="https://kodim0729-tni-ad-amp-v6.pages.dev/amp"
     target="_blank"
     onmouseover="this.style.background='#f1f1f1'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)';"
     onmouseout="this.style.background='#ffffff'; this.style.boxShadow='none';"
@@ -15512,7 +15512,7 @@
       transition: all 0.2s ease-in-out;
       box-shadow: none;
     "
-    href="https://kodim0729-tni-ad-amp-v5.pages.dev/amp"
+    href="https://kodim0729-tni-ad-amp-v6.pages.dev/amp"
     onmouseover="this.style.background='#f1f1f1'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)';"
     onmouseout="this.style.background='#ffffff'; this.style.boxShadow='none';"
     >DAFTAR</a
